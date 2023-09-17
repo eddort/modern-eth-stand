@@ -1,0 +1,21 @@
+{
+  "name": "modern-eth-stand",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Eddort <webisforce@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "cmd": "./run.sh"
+  },
+  "dependencies": {
+    "abitype": "^0.9.8",
+    "anvild": "^0.0.9",
+    "dotenv": "^16.3.1",
+    "viem": "^1.10.14"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
