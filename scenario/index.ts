@@ -11,7 +11,7 @@ export const createDI = async () => {
   const node = await createAnvil({
     anvil: { forkUrl: process.env.MAINNET_URL || "https://cloudflare-eth.com" },
   });
-  // await new Promise((res) => setTimeout(res, 1000));
+
   const providerUrl = `${node.host}:${node.port}`;
 
   const publicClient = createPublicClient({
