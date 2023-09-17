@@ -1,11 +1,11 @@
 # modern-eth-stand
 
-modern-eth-stand - an template of using modern technologies to write test scenarios for the Ethereum network
+modern-eth-stand - a template for using modern technologies to write test scenarios for the Ethereum network
 
-This repository is used in this repository:
-- Anvild — simple Anvil wrapper for Nodejs
-— Viem — awesome library for interaction with eth network
-- ts-node — for running ts files directly
+This repository utilizes technology:
+- **Anvild** simple Anvil wrapper for Nodejs
+- **Viem** is a fantastic library for interaction with the ETH network
+- **ts-node** for running ts files directly
 
 # How to use
 
